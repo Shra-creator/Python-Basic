@@ -1,4 +1,5 @@
 Python Basics Practice 🐍
+
 📌 Project Overview
 
 This project is created to practice basic Python concepts learned through Colab notebooks and implement them locally using VS Code.
